@@ -1,0 +1,8 @@
+big data analytics is transforming the world
+spark is a fast big data processing engine
+spark provides in memory computing for big data
+hadoop and spark are key big data technologies
+big data requires distributed computing frameworks
+spark sql makes big data querying easy
+machine learning on big data is powerful
+big data and ai are reshaping industries
